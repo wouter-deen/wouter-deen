@@ -23,7 +23,7 @@ Welcome to my GitHub profile page!
 
 
 ### Experience
-I have 2 years of experience in full-stack web development using Next.js, 3 years using React and 4 years with web development in general. I have 3 years of experience working with Google Cloud Platform, especially with Firestore and GCP's Identity Platform. I recently started learning about Azure Active Directory, since I found GCP's Identity Platform too limited for my use cases. Also, I wanted better integration with existing user databases. In education, most institutions use AD for this.
+I have 3 years of experience in full-stack web development using Next.js, and 4 years with web development in general. I have experience with Azure AD and integrating existing AD environments of organizations with webapps for SSO authentication. I also have experience in working with Google Cloud Platform (Firestore, Cloud Run, Identity Platform, Storage etc.). Regarding databases, I am especially experienced in working with document-oriented databases, possibly in combination with schemas, e.g., Mongoose for MongoDB.
 
 
 ## You can reach out to me on
