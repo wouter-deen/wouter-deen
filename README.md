@@ -4,7 +4,7 @@ Welcome to my GitHub profile page!
 ## About me
 ### In a nutshell
 - 🎓 Studying Business & IT @ University of Twente
-- 🎯 Working on a learning management system & Azure Active Directory (AD)
+- 🎯 Working on the LMS of the future
 - 💻 Interested in full-stack system design & enterprise architecture
 - 🏫 Developing web- and cloud-based IT solutions for educational institutions
 - 🌍 Speaking English, Dutch and German
