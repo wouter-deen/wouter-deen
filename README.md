@@ -2,27 +2,25 @@
 Welcome to my GitHub profile page!
 
 ## About me
-### In a nutshell
 - 🎓 Studying Business & IT @ University of Twente
 - 🎯 Working on the LMS of the future
 - 💻 Interested in full-stack system design & enterprise architecture
 - 🏫 Developing web- and cloud-based IT solutions for educational institutions
-- 🌍 Speaking English, Dutch and German
+- 🌍 Fluent in English and Dutch
 
-### Tech stack
-⚙️ Languages:  
+### ⚙️ Languages
 [![Java, Typescript, Javascript, HTML, CSS](https://skillicons.dev/icons?i=java,ts,js,html,css,py)](https://skillicons.dev)  
 
-🌐 Web frameworks:  
+### 🌐 Web frameworks
 [![NextJS, NodeJS, React](https://skillicons.dev/icons?i=next,nodejs,react)](https://skillicons.dev)  
 
-🛢 Databases:  
+### 🛢 Databases
 [![MongoDB, Firebase, Postgres](https://skillicons.dev/icons?i=mongodb,firebase,postgres)](https://skillicons.dev)  
 
-🔑 Authentication:  
+### 🔑 Authentication
 [![Azure AD, GCP, Firebase](https://skillicons.dev/icons?i=azure,gcp,firebase)](https://skillicons.dev)  
 
-💽 IDEs:  
+### 💽 IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### Experience
