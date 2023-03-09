@@ -24,7 +24,7 @@ Welcome to my GitHub profile page!
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### Experience
-I have 3 years of experience in full-stack web development using Next.js, and 4 years with web development in general. I have experience with Azure AD and integrating existing AD environments of organizations with webapps for SSO authentication. I also have experience in working with Google Cloud Platform (Firestore, Cloud Run, Identity Platform, Storage etc.). Regarding databases, I am especially experienced in working with document-oriented databases, possibly in combination with schemas, e.g., Mongoose for MongoDB.
+I have 3 years of experience in full-stack web development using Next.js, and 4 years with web development in general. I have experience with Azure AD and integrating existing AD environments of organizations with webapps for SSO authentication. I also have experience in working with Google Cloud Platform (Firestore, Cloud Run, Identity Platform, Storage etc.). Regarding databases, I am especially experienced in working with document-oriented databases, preferably in combination with schemas, e.g., Mongoose for MongoDB.
 
 
 ## You can reach out to me on
