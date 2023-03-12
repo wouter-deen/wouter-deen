@@ -3,7 +3,7 @@ Welcome to my GitHub profile page!
 
 ## About me
 - 🎓 Studying Business & IT @ University of Twente
-- 🎯 Working on the LMS of the future
+- 🎯 Working on a new LMS
 - 💻 Interested in full-stack system design & cloud architecture
 - 🏫 Developing web- and cloud-based IT solutions for educational institutions
 - 🌍 Fluent in English and Dutch
