@@ -1,5 +1,5 @@
 # Hey, I’m Wouter!👋
-Welcome to my GitHub profile page!
+Welcome to my GitHub profile page! I'm a full-stack developer from the Netherlands.
 
 ## About me
 - 🎓 Studying Business & IT @ University of Twente
