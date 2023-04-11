@@ -15,7 +15,7 @@ Welcome to my GitHub profile page!
 [![NextJS, NodeJS, React](https://skillicons.dev/icons?i=next,nodejs,react)](https://skillicons.dev)  
 
 ### 🛢 Databases
-[![MongoDB, Firebase, Postgres](https://skillicons.dev/icons?i=mongodb,firebase,postgres)](https://skillicons.dev)  
+[![MongoDB, Firebase, Postgres](https://skillicons.dev/icons?i=mongodb,postgres,firebase)](https://skillicons.dev)  
 
 ### 🔑 Authentication
 [![Azure AD, GCP, Firebase](https://skillicons.dev/icons?i=azure,gcp,firebase)](https://skillicons.dev)  
