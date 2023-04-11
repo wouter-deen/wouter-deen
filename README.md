@@ -28,7 +28,7 @@ Welcome to my GitHub profile page!
 - Azure Active Directory integration in full-stack web apps
 - Low-code development with Outsystems
 
-I have over 3 years of experience in full-stack web development using Next.js, and 4 years with web development in general. I have experience with Azure AD and integrating existing AD environments of organizations with webapps for SSO authentication. I also have experience in working with Google Cloud Platform (Firestore, Cloud Run, Identity Platform, Storage etc.). Regarding databases, I'm especially experienced in working with document-oriented databases, preferably in combination with schemas, e.g., Mongoose for MongoDB.
+I have over 3 years of experience in full-stack web development using Next.js, and 4 years with web development in general. I have experience with Azure AD and integrating existing AD environments of organizations with webapps for SSO authentication. I also have experience in working with Google Cloud Platform (Firestore, Cloud Run, Identity Platform, Storage etc.). Regarding databases, I'm especially experienced in working with document-oriented databases, preferably in combination with schemas, e.g., Mongoose for MongoDB. I work primarily with JetBrains IDEs (WebStorm and IntelliJ).
 
 
 ## You can reach out to me on
