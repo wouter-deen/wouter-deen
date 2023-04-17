@@ -9,13 +9,13 @@ Welcome to my GitHub profile page! I'm a full-stack developer from the Netherlan
 - 🌍 Fluent in English and Dutch
 
 ### ⚙️ Languages
-[![Java, Typescript, Javascript, HTML, Python](https://skillicons.dev/icons?i=java,ts,js,html,py)](https://skillicons.dev)  
+[![Java, Typescript, JavaScript, Python](https://skillicons.dev/icons?i=java,ts,js,py)](https://skillicons.dev)  
 
-### 🌐 JS frameworks
+### 🌐 Web frameworks
 [![NextJS, NodeJS, React](https://skillicons.dev/icons?i=next,nodejs,react)](https://skillicons.dev)  
 
-### 🛢 Databases
-[![MongoDB, Firebase, Postgres](https://skillicons.dev/icons?i=mongodb,postgres,firebase)](https://skillicons.dev)  
+### 💾 Databases & tools
+[![MySQL, Prisma, PlanetScale, MongoDB, Firebase, Postgres](https://skillicons.dev/icons?i=mysql,planetscale,prisma,mongodb,postgres,firebase)](https://skillicons.dev)  
 
 ### 🔑 Authentication
 [![Azure AD, GCP, Firebase](https://skillicons.dev/icons?i=azure,gcp,firebase)](https://skillicons.dev)  
