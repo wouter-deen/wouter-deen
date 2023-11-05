@@ -3,7 +3,6 @@ Welcome to my GitHub profile page! I'm a full-stack developer from the Netherlan
 
 ## About me
 - 🎓 Studying Business & IT @ University of Twente
-- 🎯 Working on a new LMS
 - 💻 Interested in system design & cloud architecture
 - 🏫 Developing web- and cloud-based IT solutions
 - 🌍 Fluent in English and Dutch
