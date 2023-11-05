@@ -19,7 +19,7 @@ Welcome to my GitHub profile page! I'm a full-stack developer from the Netherlan
 ### 🔑 Authentication
 [![](https://skillicons.dev/icons?i=azure,gcp,firebase)](https://skillicons.dev)  
 
-## ☁️ Platforms
+### ☁️ Platforms
 [![](https://skillicons.dev/icons?i=docker,linux,cloudflare,gcp,azure)](https://skillicons.dev)  
 
 
